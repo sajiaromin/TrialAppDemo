@@ -30,7 +30,7 @@
         android:text="@string/name"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:labelFor="SomeLabel"/>
+        android:ignore="labelFor"/>
 
 
     
