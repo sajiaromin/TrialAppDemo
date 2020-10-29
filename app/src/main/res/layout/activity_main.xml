@@ -29,8 +29,9 @@
         android:inputType="textPersonName"
         android:text="@string/name"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-    android:labelFor="SomeLabel"
+        app:layout_constraintTop_toTopOf="parent"
+        android:labelFor="SomeLabel"/>
+
 
     
 
